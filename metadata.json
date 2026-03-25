@@ -1,0 +1,5 @@
+{
+  "name": "Shakira Voice Agent",
+  "description": "A bilingual voice agent for Romain, speaking English and French with a British accent.",
+  "requestFramePermissions": ["microphone"]
+}
